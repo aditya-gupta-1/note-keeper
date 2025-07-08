@@ -1,0 +1,27 @@
+[
+  {
+    "id": 321,
+    "title": "test1",
+    "content": "Afternoon class is great !!!",
+    "updatedAt": "2025-07-02T09:23:06.672Z"
+  },
+  {
+    "id": 456,
+    "title": "test2",
+    "content": "Afternoon class over !!!"
+  },
+  {
+    "id": 1751446513483,
+    "title": "Aditya",
+    "content": "Sample POST operation",
+    "createdAt": "2025-07-02T08:55:13.483Z",
+    "updatedAt": "2025-07-02T08:55:13.483Z"
+  },
+  {
+    "id": 678,
+    "title": "test3",
+    "content": "This class taught us API requests including GET, POST, PUT and DELETE.",
+    "createdAt": "2025-07-02T09:35:23.583Z",
+    "updatedAt": "2025-07-02T09:37:54.022Z"
+  }
+]
